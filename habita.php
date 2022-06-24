@@ -159,7 +159,7 @@ influyen positiva o negativamente en tu descanso.<br>
 		<footer class="row justify-content-center redes-sociales">
 			<div class="col-auto">
 				<a href="#"><img src="img/icons/facebook.png" alt=""></a>
-				<a href="#"><img src="img/icons/twitter.png" alt=""></a>
+				
 				<a href="#"><img src="img/icons/instagram-new.png" alt=""></a>
 			</div>
 		</footer>
