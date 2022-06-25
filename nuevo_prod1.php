@@ -51,9 +51,7 @@
 			</article>
 
 			<div class="todo">
-            <div id="cabecera">
-                <img src="img/fondo.jpg" width="1188" id="img1">
-            </div>
+           
 
             <div id="contenido">
                 <div style="margin: auto; width: 800px; border-collapse: separate; border-spacing: 10px 5px;">
@@ -73,6 +71,9 @@
                     <button type="submit" class="btn btn-success">Guardar</button>
                 </form>
                 </div>
+            </div>
+			<div id="cabecera">
+                <img src="img/fondo.jpg" width="1188" id="img1">
             </div>
 
             <div id="footer">

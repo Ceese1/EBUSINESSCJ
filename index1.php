@@ -11,6 +11,7 @@
 	<link rel="stylesheet" href="css1/estilos2.css">
 	<link rel="stylesheet" href="whatsapp.css">
 	<link rel="stylesheet" href="Productos/index2">
+
 	
 	
 	
@@ -24,7 +25,7 @@
 			<div class="barra">
 				<h2>Categorias<img src="img/menu.png" alt=""  width="50" height="50"></h2>
         <ul>
-            <p><li><a class="active" href="index2.php">Inicio</a></li></p>
+            <p><li><a class="active" href="index1.php">Inicio</a></li></p>
             <li><a class="active" href="sala.php">Sala</a></li>
 			<li><a class="active" href="gamers.php">Gamers</a></li>
             <li><a class="active" href="habita.php">Habitacion</a></li>
@@ -87,8 +88,10 @@
 								<p class="overlay-texto"><br><center>Mesa para <br>TV Extensible de 50"<br>
 									<h1>Envió Gratis</h1>precio: $$$$$$$<br></center></p>
 							</figcaption>
-						</figure>
-					</article>
+							</figure>
+							<center><button>Agregar al carrito<button></center>
+						</article>
+
 
 					<article class="col-6 col-lg-3 py-1">
 						<figure class="producto">
@@ -98,7 +101,7 @@
 									<h1>Envió Gratis</h1>precio: $$$$$$$<br></center></p>
 							</figcaption>
 						</figure>
-					</article>
+						<center><button>Agregar al carrito<button></center>					</article>
 
 					<article class="col-6 col-lg-3 py-1">
 						<figure class="producto">
@@ -108,7 +111,7 @@
 									<h1>Envió Gratis</h1>precio: $$$$$$$<br></center></p>
 							</figcaption>
 						</figure>
-					</article>
+						<center><button>Agregar al carrito<button></center>					</article>
 
 					<article class="col-6 col-lg-3 py-1">
 						<figure class="producto">
@@ -118,7 +121,7 @@
 									<h1>Envió Gratis</h1>precio: $$$$$$$<br></center></p>
 							</figcaption>
 						</figure>
-					</article>
+						<center><button>Agregar al carrito<button></center>					</article>
 
 					<button class="d-block btn-productos">Todos los productos</button>
 				</div>
